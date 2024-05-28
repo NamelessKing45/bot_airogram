@@ -6,7 +6,7 @@ class Settings(BaseSettings):
         case_sensitive=False,
     )
 
-    bot_token: str = "7113779368:AAEB4N8mlaalE10L_Mfi5-Nx4EqfLdXe7FY"
+    bot_token: str = "    "
     admin_ids: frozenset[int] = frozenset({42, 3595399})
 
 
